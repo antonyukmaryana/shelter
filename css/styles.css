@@ -1,0 +1,15 @@
+.header{
+
+}
+.header3{
+
+}
+
+.column {
+  width: 30%;
+  float: left;
+  margin: 5px;
+  border: 2px solid #A0522D;
+  padding-left: 10px;
+  background-color: #FFFACD;
+}
